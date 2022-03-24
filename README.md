@@ -1,0 +1,1 @@
+React Layout ini dibangun dengan menggunakan framework React Js. Project ini merupakan projek yang terinspirasi dari youtube Brian Design di link berikuthttps://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A dengan beberapa modifikasi di tampilan dan css 
